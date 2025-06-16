@@ -19,6 +19,19 @@ npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 > [!NOTE]
 > Pastikan perintah di atas dijalankan setiap mau ngoding, biar file output.css nya ke generate terus
 
+## Referensi Web Untuk Di-Clone
+- [Service Center Electrolux](https://servicecenterelectrolux.com/)
+- [Airbnb](https://www.airbnb.com/)
+- [Nintendo](https://www.nintendo.com/us/)
+- [Salesforce](https://www.salesforce.com/ap/?ir=1)
+- [Playstation](https://www.playstation.com/en-us/)
+  
+
+## Link Dokumentasi
+- [Tailwind CSS](https://tailwindcss.com/docs)
+  
+
+
 
 <br>
 Selamat belajar 😁
