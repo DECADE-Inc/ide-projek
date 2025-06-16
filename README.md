@@ -23,19 +23,19 @@ Projek-projek di dalam sini baru bisa dikerjain kalau udah menguasai tag materi 
   
 - Buka folder template yang mau dipakai di repositori github <br><br>
 ![Alt text](images/1.png)
-<center>Contoh buka folder WEBSITE CLONE</center> <br>
+
 
 - Copy alamat folder template yang mau di clone <br><br>
 ![Alt text](images/2.png)
-<center>Contoh copy link folder WEBSITE CLONE</center> <br>
+
 
 - Paste alamat folder template ke github directory downloader <br><br>
 ![Alt text](images/3.png)
-<center>Contoh paste link folder WEBSITE CLONE</center> <br>
+
 
 - Tekan enter, tunggu proses download selesai<br><br>
 ![Alt text](images/4.png)
-<center>Tanda proses download berhasil</center> <br>
+
   
 - Ekstrak folder dan ganti nama sesuai kebutuhan.
 
