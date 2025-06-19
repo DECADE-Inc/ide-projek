@@ -121,3 +121,5 @@ composer run dev
            - destroy -> menghapus produk dari database
 2. Gunakan named routes / rute yang pakai nama buat memudahkan pas nambahin ke form action nya.
 3. Silahkan styling dan kustomisasi halaman menggunakan tailwind sesuai selera. atau kalian bisa pakai template dari flowbite.
+4. (Opsional) Tambahin proses autentikasi sederhana (login, register) tanpa starter kit kayak laravel breeze.
+5. (Opsional) Tambahin fitur searching sama pagination.
